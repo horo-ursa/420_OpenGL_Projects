@@ -2,7 +2,7 @@
 These are class projects from USC CSCI-420 Computer Graphics
 
 ## Roller Coaster Project
-In project two, I experimented with OpenGL version 3.3 to create a physically realistic roller coaster.
+In this project, I experimented with OpenGL version 3.3 to create a physically realistic roller coaster.
 
 **implemented features**
 
